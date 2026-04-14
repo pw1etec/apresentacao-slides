@@ -1,9 +1,3 @@
-Aqui está o material completo, unificado e com as explicações aprofundadas. Mantive o formato em Markdown, a pegada descontraída e incluí analogias com desenvolvimento web (já que a galera da ETEC costuma ter facilidade com essa lógica de blocos e layouts). 
-
-É só copiar tudo abaixo dessa linha, colar no seu `.md` do GitHub e começar a aula! Boa noite de aula para vocês!
-
-***
-
 # 🎭 Aula 01: Dominando o PowerPoint
 > *Ou: Como criar apresentações incríveis, dominar a atenção do público e salvar sua plateia do tédio.*
 
